@@ -46,10 +46,12 @@ Finally, you could filter all images like this:
 
 # Contributing
 
-I, [Maxime Culea](https://profiles.wordpress.org/MaximeCulea), have created this plugin which I only maintain. I do not guarantee some free support, so consider reporting an issue and be patient.
-
 Please refer to the [contributing guidelines](.github/CONTRIBUTING.md) to increase the chance of your pull request being merged and/or receiving the best support for your issue.
 
 If you identify any errors or have an idea for improving the plugin, feel free to open an [issue](../../issues/new) or [create a pull request](../../compare). Please provide as much info as needed in order to help me resolve/approve your request.
+
+# Credits
+
+I, [Maxime Culea](https://profiles.wordpress.org/MaximeCulea), have created this plugin which I only maintain. I do not guarantee some free support. Also thank you to others listed in the [credits](CREDITS.md).
 
 Finally, if you really like what I do or want to thank me for my work, feel free [to donate](https://www.paypal.com/paypalme/maximeculea), even 1€ is a great gift for buying some coffee :)
