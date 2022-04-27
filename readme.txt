@@ -9,7 +9,7 @@ Stable tag: 1.0.1
 License: GPL v2 or later
 License URI: https://github.com/MaximeCulea/acf-beautiful-flexible/blob/master/LICENSE.md
 
-ACF Beautiful Flexible : Transform ACF's flexible layouts list into a beautiful popup.
+ACF Beautiful Flexible: Transform ACF's flexible layouts list into a beautiful popup.
 
 == Description ==
 
