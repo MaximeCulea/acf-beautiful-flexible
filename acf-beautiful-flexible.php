@@ -18,7 +18,7 @@
  * Author URI:        https://profiles.wordpress.org/MaximeCulea
  * Text Domain:       acf-beautiful-flexible
  * License:           GPL v2 or later
- * License URI:       https://github.com/MaximeCulea/acf-beautiful-flexible/blob/master/LICENSE.md
+ * License URI:       http://www.gnu.org/licenses/gpl-2.0.html
  * Contributors:      maximeculea
  * Donate link:       https://www.paypal.com/paypalme/MaximeCulea
  */
