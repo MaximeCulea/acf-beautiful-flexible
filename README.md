@@ -64,4 +64,4 @@ Finally, created [my own plugin](https://wordpress.org/plugins/acf-beautiful-fle
 
 ## License
 
-ACF Beautiful Flexible is licensed under the [GPLv3 or later](LICENSE.md).
+ACF Beautiful Flexible is licensed under the [GPLv2 or later](LICENSE).
