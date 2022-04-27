@@ -3,10 +3,10 @@ Contributors: maximeculea
 Donate link: https://www.paypal.com/paypalme/MaximeCulea
 Tags: Advanced Custom Fields, ACF, ACF Addon, Flexible, Fields
 Requires at least: 4.7
-Requires php: 5.6
+Requires php: 7.4
 Tested up to: 5.9
 Stable tag: 1.0.1
-License: GPLv3 or later
+License: GPL v2 or later
 License URI: https://github.com/MaximeCulea/acf-beautiful-flexible/blob/master/LICENSE.md
 
 ACF Beautiful Flexible : Transform ACF's flexible layouts list into a beautiful popup.
