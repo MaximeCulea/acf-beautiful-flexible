@@ -34,14 +34,10 @@ Finally, you could filter all images like this :
 
 # About ACF Beautiful Flexible
 
-I, [Maxime Culea](https://profiles.wordpress.org/MaximeCulea), have created this plugin which I only maintain, which means I do not guarantee some free support. Consider reporting an issue and be patient.
+I, [Maxime Culea](https://profiles.wordpress.org/MaximeCulea), have created this plugin which I only maintain. I do not guarantee some free support. Also thank you to others listed in the [credits](CREDITS.md).
+
+Consider reporting an [issue](https://wordpress.org/support/plugin/stripe-payments/) and be patient.
 Any code suggestions? I am on [GitHub](https://github.com/maximeculea/acf-beautiful-flexible) as well!
-
-## Credits
-
-Special thanks to HWK, from his [blogpost](https://hwk.fr/blog/acf-transformer-la-selection-des-layouts-du-contenu-flexible-en-modal), I created a WordPress plugin with custom tunings (js+css).
-Couldn't contribute anymore to the [my first version](https://wordpress.org/plugins/bea-beautiful-flexible/) which was then abandoned.
-Finally, created [my own plugin](https://wordpress.org/plugins/acf-beautiful-flexible) for prosperity and to personally follow plugin' support.
 
 == Installation ==
 
@@ -50,7 +46,7 @@ This plugin works only if the [ACF Pro](https://www.advancedcustomfields.com/) p
 # Requirements
 
 - [ACF Pro](https://www.advancedcustomfields.com/) plugin 5.6+
-- WordPress 4.7+ because of `[get_theme_file_uri()](https://developer.wordpress.org/reference/functions/get_theme_file_uri)`
+- WordPress 4.7+ because of [get_theme_file_uri()](https://developer.wordpress.org/reference/functions/get_theme_file_uri)
 - Tested up to WordPress 5.9
 
 # WordPress
