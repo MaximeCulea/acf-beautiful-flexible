@@ -27,4 +27,4 @@ Thanks for contributing !
 
 # License
 
-By contributing code, you grant its use under the [GPLv3 or Later license](../LICENSE.md).
+By contributing code, you grant its use under the [GPLv2 or Later license](../LICENSE).
