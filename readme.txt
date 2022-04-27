@@ -7,7 +7,7 @@ Requires php: 7.4
 Tested up to: 5.9
 Stable tag: 1.0.1
 License: GPL v2 or later
-License URI: https://github.com/MaximeCulea/acf-beautiful-flexible/blob/master/LICENSE.md
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 ACF Beautiful Flexible: Transform ACF's flexible layouts list into a beautiful popup.
 
@@ -34,7 +34,7 @@ Finally, you could filter all images like this :
 
 # About ACF Beautiful Flexible
 
-I, [Maxime Culea](https://profiles.wordpress.org/MaximeCulea), have created this plugin which I only maintain. I do not guarantee some free support. Also thank you to others listed in the [credits](CREDITS.md).
+I, [Maxime Culea](https://profiles.wordpress.org/MaximeCulea), have created this plugin which I only maintain. I do not guarantee some free support. Also thank you to others listed in the [credits](https://github.com/MaximeCulea/acf-beautiful-flexible/blob/main/CREDITS.md).
 
 Consider reporting an [issue](https://wordpress.org/support/plugin/stripe-payments/) and be patient.
 Any code suggestions? I am on [GitHub](https://github.com/maximeculea/acf-beautiful-flexible) as well!
