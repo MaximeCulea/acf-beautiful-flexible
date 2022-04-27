@@ -24,8 +24,8 @@ permission notices:
   Copyright 2022 - Maxime Culea
 
   ACF Beautiful Flexible is released under the GPL
- 
- 
+
+
 ===============================================================================
 
                      GNU GENERAL PUBLIC LICENSE

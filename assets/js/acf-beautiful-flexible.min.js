@@ -1,0 +1,14 @@
+jQuery(document).ready((function () {
+    var e = acf.fields.flexible_content._open;
+    acf.fields.flexible_content._open = function (t) {
+        var n = jQuery(this.el.children(".tmpl-popup").html());
+        return 1 == n.find("a").length ? (acf.fields.flexible_content.add(n.find("a").attr("data-layout")), !1) : e.apply(this, arguments)
+    }, jQuery("body").on("click", 'a[data-name="add-layout"]', (function () {
+        setTimeout((function () {
+            jQuery(".acf-fc-popup a").each((function () {
+                var e = "<div>" + jQuery(this).text() + "</div>";
+                jQuery(this).html(e)
+            }))
+        }), 0)
+    }))
+}));
