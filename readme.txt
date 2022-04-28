@@ -3,7 +3,7 @@ Contributors: maximeculea
 Donate link: https://www.paypal.com/paypalme/MaximeCulea
 Tags: Advanced Custom Fields, ACF, ACF Addon, Flexible, Fields
 Requires at least: 4.7
-Requires php: 7.4
+Requires php: 5.6
 Tested up to: 5.9
 Stable tag: 1.0.1
 License: GPL v2 or later

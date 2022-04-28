@@ -2,8 +2,8 @@
 /**
  * ACF Beautiful Flexible
  *
- * @package           ACFBeautifulFlexible
  * @author            Maxime Culea
+ * @package           ACFBeautifulFlexible
  * @copyright         2022 Maxime Culea
  * @license           GPL-2.0-or-later
  *
@@ -13,7 +13,7 @@
  * Description:       Transform ACF's flexible layouts list into a beautiful popup.
  * Version:           1.0.1
  * Requires at least: 4.7
- * Requires PHP:      7.4
+ * Requires PHP:      5.6
  * Author:            Maxime Culea
  * Author URI:        https://profiles.wordpress.org/MaximeCulea
  * Text Domain:       acf-beautiful-flexible
@@ -45,7 +45,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 
 // Plugin constants
 define( 'ACF_BEAUTIFUL_FLEXIBLE_VERSION', '1.0.1' );
-define( 'ACF_BEAUTIFUL_FLEXIBLE_MIN_PHP_VERSION', '7.4' );
+define( 'ACF_BEAUTIFUL_FLEXIBLE_MIN_PHP_VERSION', '5.6' );
 
 // Plugin URL and PATH
 define( 'ACF_BEAUTIFUL_FLEXIBLE_URL', plugin_dir_url( __FILE__ ) );
