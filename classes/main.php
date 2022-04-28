@@ -35,7 +35,7 @@ class Main {
 			$css .= sprintf( "\n\t .acf-fc-popup ul li a[data-layout=\"%s\"]{ background-image: url(\"%s\"); }", esc_html( $layout_key ), esc_url( $image_url ) );
 		}
 
-		echo "\n<style>" . strip_tags( $css ) . "\n</style>\n";
+		echo "\n<style>" . strip_tags( $css ) . "\n</style>\n"; // phpcs:disable WordPress.Security.EscapeOutput.OutputNotEscaped
 	}
 
 	/**
