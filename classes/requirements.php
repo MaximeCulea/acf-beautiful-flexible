@@ -27,10 +27,10 @@ class Requirements {
 
 	// Display message and handle errors
 	public function display_error( $message ) {
-		trigger_error( $message );
+		trigger_error( $message ); // phpcs:disable WordPress.Security.EscapeOutput.OutputNotEscaped
 
 		add_action( 'admin_notices', function () use ( $message ) {
-			printf( '<div class="notice error is-dismissible"><p>%s</p></div>', $message );
+			printf( '<div class="notice error is-dismissible"><p>%s</p></div>', $message ); // phpcs:disable WordPress.Security.EscapeOutput.OutputNotEscaped
 		} );
 
 		// Deactive self
