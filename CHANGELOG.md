@@ -1,6 +1,9 @@
 # Changelog ##
 
-## 1.0.1 - 15 Oct 2018
+## 1.0.2 - 05 Mai 2022
+* Publish on WP directory
+
+## 1.0.1 - 30 Apr 2018
 * Compatibility with latest versions of ACF and WordPress.
 * Look for nested fields into repeaters and flexibles.
 

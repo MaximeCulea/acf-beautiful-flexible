@@ -52,6 +52,6 @@ If you identify any errors or have an idea for improving the plugin, feel free t
 
 # Credits
 
-I, [Maxime Culea](https://profiles.wordpress.org/MaximeCulea), have created this plugin which I only maintain. I do not guarantee some free support. Also thank you to others listed in the [credits](CREDITS.md).
+I, [Maxime Culea](https://profiles.wordpress.org/MaximeCulea), have created this plugin which I only maintain. I do not guarantee some free support. Also, thank others listed in the [credits](CREDITS.md).
 
 Finally, if you really like what I do or want to thank me for my work, feel free [to donate](https://www.paypal.com/paypalme/maximeculea), even 1€ is a great gift for buying some coffee :)
