@@ -9,7 +9,7 @@ Stable tag: 1.0.2
 License: GPL v2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-ACF Beautiful Flexible: Transform ACF\'s flexible layouts list into a beautiful popup.
+ACF Beautiful Flexible: Transform ACF's flexible layouts list into a beautiful popup.
 
 == Description ==
 To use ACF Beautiful Flexible, simply activate the plugin to improve the ACF flexible UI. By default, it uses random images, but the idea is to customize them by adding your own.
@@ -22,20 +22,20 @@ To use ACF Beautiful Flexible, simply activate the plugin to improve the ACF fle
 
 = Where images should be situated =
 
-They should more likely be situated into your theme `wp-content\\themes\\my-theme\\assets\\acf-beautiful-flexible\\`. But if you have a child-theme and added images into it, these will overwrite those from parent-theme.
-The following directories will be solved according to order: plugin\'s folder, child theme\'s folder, theme\'s folder.
+They should more likely be situated into your theme `wp-content\themes\my-theme\assets\acf-beautiful-flexible\`. But if you have a child-theme and added images into it, these will overwrite those from parent-theme.
+The following directories will be solved according to order: plugin's folder, child theme's folder, theme's folder.
 
 Also note that you can filter this path to gather all your images into a same folder :
-`add_filter( \'acf_beautiful_flexible.images_path\', $path );`
+`add_filter( 'acf_beautiful_flexible.images_path', $path );`
 
 Finally, you could filter all images like this :
-`add_filter( \'acf_beautiful_flexible.images\', $images );`
+`add_filter( 'acf_beautiful_flexible.images', $images );`
 
 = About ACF Beautiful Flexible =
 
 I, [Maxime Culea](https://profiles.wordpress.org/MaximeCulea), have created this plugin which I only maintain. I do not guarantee some free support. Also, thank others listed in the [credits](https://github.com/MaximeCulea/acf-beautiful-flexible/blob/main/CREDITS.md).
 
-Consider reporting an [issue](https://wordpress.org/support/plugin/stripe-payments/) and be patient.
+Consider reporting an [issue](https://wordpress.org/support/plugin/acf-beautiful-flexible/) and be patient.
 Any code suggestions? I am on [GitHub](https://github.com/maximeculea/acf-beautiful-flexible) as well!
 
 == Installation ==
@@ -54,7 +54,7 @@ This plugin works only if the [ACF Pro](https://www.advancedcustomfields.com/) p
 1. Then [add](#details) your awesome layouts images.
 
 == Screenshots ==
-1. Show how ACF Beautiful Flexible improve the ACF\'s layouts UI.
+1. Show how ACF Beautiful Flexible improve the ACF's layouts UI.
 
 == Changelog ==
 = 1.0.2 - 05 Mai 2022 =
