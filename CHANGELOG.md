@@ -1,6 +1,6 @@
 # Changelog ##
 
-## 1.0.2 - 05 Mai 2022
+## 1.0.3 - 05 Mai 2022
 * Publish on WP directory
 
 ## 1.0.1 - 30 Apr 2018

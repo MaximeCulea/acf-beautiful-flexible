@@ -5,7 +5,7 @@ Donate link: https://www.paypal.com/paypalme/MaximeCulea
 Requires at least: 4.7
 Tested up to: 5.9
 Requires PHP: 5.6
-Stable tag: 1.0.2
+Stable tag: 1.0.3
 License: GPL v2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -57,7 +57,7 @@ This plugin works only if the [ACF Pro](https://www.advancedcustomfields.com/) p
 1. Show how ACF Beautiful Flexible improve the ACF's layouts UI.
 
 == Changelog ==
-= 1.0.2 - 05 Mai 2022 =
+= 1.0.3 - 05 Mai 2022 =
 - Publish on WordPress directory
 
 = 1.0.1 - 30 April 2022 =
