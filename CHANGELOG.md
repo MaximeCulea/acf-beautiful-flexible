@@ -1,5 +1,8 @@
 # Changelog ##
 
+## 1.0.4 - 31 August 2022
+* Fix warnings for php 8.1
+
 ## 1.0.3 - 05 Mai 2022
 * Publish on WP directory
 

@@ -11,7 +11,7 @@
  * Plugin Name:       ACF Beautiful Flexible
  * Plugin URI:        https://wordpress.org/plugins/acf-beautiful-flexible
  * Description:       Transform ACF's flexible layouts list into a beautiful popup.
- * Version:           1.0.3
+ * Version:           1.0.4
  * Requires at least: 4.7
  * Requires PHP:      5.6
  * Author:            Maxime Culea

@@ -29,20 +29,25 @@ trait Singleton {
 	 * Add init function by default
 	 * Implement this method in your child class
 	 * If you want to have actions send at construct
+	 *
+	 * @return void
 	 */
-	protected function init() {}
+	protected function init() {
+	}
 
 	/**
 	 * prevent the instance from being cloned
 	 *
 	 * @return void
 	 */
-	final private function __clone() {}
+	final function __clone() {
+	}
 
 	/**
 	 * prevent from being unserialized
 	 *
 	 * @return void
 	 */
-	final private function __wakeup() {}
+	final function __wakeup() {
+	}
 }
