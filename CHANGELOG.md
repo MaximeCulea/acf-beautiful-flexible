@@ -1,10 +1,13 @@
 # Changelog ##
 
-## 1.0.4 - 31 August 2022
-* Fix warnings for php 8.1
+## 1.0.5 - 2 Sept 2022
+* Fix escaping.
+
+## 1.0.4 - 31 Aug 2022
+* Fix warnings for php 8.1.
 
 ## 1.0.3 - 05 Mai 2022
-* Publish on WP directory
+* Publish on WP directory.
 
 ## 1.0.1 - 30 Apr 2018
 * Compatibility with latest versions of ACF and WordPress.
